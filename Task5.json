@@ -1,0 +1,833 @@
+[
+      {
+            "Name": "Black Panther",
+            "Rating": "PG-13(SequencesofActionViolence|ABriefRudeGesture)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "RyanCoogler",
+            "Producer": "KevinFeige",
+            "Writer": "RyanCoogler,JoeRobertCole",
+            "Release Date (Theaters)": "Feb16,2018 wide",
+            "Release Date (Streaming)": "May2,2018",
+            "Box Office (Gross USA)": "$700.2M",
+            "Runtime": "125 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DTS,DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Avengers: Endgame",
+            "Rating": "PG-13(SequencesofSci-FiViolence|Action|SomeLanguage)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "AnthonyRusso,JoeRusso",
+            "Producer": "KevinFeige",
+            "Writer": "ChristopherMarkus,StephenMcFeely",
+            "Release Date (Theaters)": "Apr26,2019 wide",
+            "Release Date (Streaming)": "Jul30,2019",
+            "Box Office (Gross USA)": "$858.4M",
+            "Runtime": "181 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos,DTS,SDDS,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Mission: Impossible -- Fallout",
+            "Rating": "PG-13(IntenseSequencesofAction|BriefStrongLanguage|Violence)",
+            "Genre": [
+                  "Action,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "ChristopherMcQuarrie",
+            "Producer": "TomCruise,ChristopherMcQuarrie,JakeMyers,J.J.Abrams",
+            "Writer": "ChristopherMcQuarrie",
+            "Release Date (Theaters)": "Jul27,2018 wide",
+            "Release Date (Streaming)": "Oct23,2018",
+            "Box Office (Gross USA)": "$220.1M",
+            "Runtime": "129 m",
+            "Distributor": "ParamountPictures",
+            "Sound Mix": "DTS,DolbyAtmos,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Mad Max: Fury Road",
+            "Rating": "R(IntenseSequencesofViolence|DisturbingImages)",
+            "Genre": [
+                  "Action,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "GeorgeMiller",
+            "Producer": "DougMitchell,GeorgeMiller,P.J.Voeten",
+            "Writer": "GeorgeMiller,BrendanMcCarthy,NickLathouris",
+            "Release Date (Theaters)": "May15,2015 wide",
+            "Release Date (Streaming)": "Sep1,2015",
+            "Box Office (Gross USA)": "$153.6M",
+            "Runtime": "120 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "DolbyDigital,Datasat,SDDS,DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Spider-Man: Into the Spider-Verse",
+            "Rating": "PG(MildLanguage|FreneticActionViolence|ThematicElements)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Comedy,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "BobPersichetti,PeterRamsey,RodneyRothman",
+            "Producer": "AviArad,AmyPascal,PhilLord,ChrisMiller,ChristinaSteinberg",
+            "Writer": "PhilLord,RodneyRothman",
+            "Release Date (Theaters)": "Dec14,2018 wide",
+            "Release Date (Streaming)": "Mar19,2019",
+            "Box Office (Gross USA)": "$190.2M",
+            "Runtime": "72 m",
+            "Distributor": "ColumbiaPictures,SonyPicturesEntertainment",
+            "Sound Mix": "SDDS,DolbyAtmos,DolbyDigital,DTS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Wonder Woman",
+            "Rating": "PG-13(SequencesofViolence|Action|SomeSuggestiveContent)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "PattyJenkins",
+            "Producer": "CharlesRoven,DeborahSnyder,ZackSnyder,RichardSuckle",
+            "Writer": "AllanHeinberg",
+            "Release Date (Theaters)": "Jun2,2017 wide",
+            "Release Date (Streaming)": "Sep26,2017",
+            "Box Office (Gross USA)": "$412.8M",
+            "Runtime": "123 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "DolbyAtmos,SDDS,DTS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "DCExtendedUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Logan",
+            "Rating": "R(LanguageThroughout|BriefNudity|StrongBrutalViolence)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "JamesMangold",
+            "Producer": "HutchParker,SimonKinberg,LaurenShulerDonner",
+            "Writer": "JamesMangold,MichaelGreen,ScottFrank",
+            "Release Date (Theaters)": "Mar3,2017 wide",
+            "Release Date (Streaming)": "Jun20,2017",
+            "Box Office (Gross USA)": "$226.3M",
+            "Runtime": "128 m",
+            "Distributor": "20thCenturyFox",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "X-Men",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Coco",
+            "Rating": "PG(ThematicElements)",
+            "Genre": [
+                  "Comedy,",
+                  "Adventure,",
+                  "Music"
+            ],
+            "Original Language": "English",
+            "Director": "LeeUnkrich",
+            "Producer": "DarlaK.Anderson",
+            "Writer": "AdrianMolina,MatthewAldrich",
+            "Release Date (Theaters)": "Nov22,2017 wide",
+            "Release Date (Streaming)": "Feb13,2018",
+            "Box Office (Gross USA)": "$210.5M",
+            "Runtime": "73 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "Pixar",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Dunkirk",
+            "Rating": "PG-13(SomeLanguage|IntenseWarExperience)",
+            "Genre": [
+                  "War"
+            ],
+            "Original Language": "English",
+            "Director": "ChristopherNolan",
+            "Producer": "EmmaThomas,ChristopherNolan",
+            "Writer": "ChristopherNolan",
+            "Release Date (Theaters)": "Jul21,2017 wide",
+            "Release Date (Streaming)": "Dec12,2017",
+            "Box Office (Gross USA)": "$188.0M",
+            "Runtime": "71 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "Datasat,DolbyAtmos,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Star Wars: The Last Jedi",
+            "Rating": "PG-13(Violence|SequencesofSci-FiAction)",
+            "Genre": [
+                  "Adventure,",
+                  "Action,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "RianJohnson",
+            "Producer": "KathleenKennedy,RamBergman",
+            "Writer": "RianJohnson",
+            "Release Date (Theaters)": "Dec15,2017 wide",
+            "Release Date (Streaming)": "Mar27,2018",
+            "Box Office (Gross USA)": "$620.2M",
+            "Runtime": "125 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyDigital,DolbyAtmos,DTS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "StarWarsSaga",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Thor: Ragnarok",
+            "Rating": "PG-13(BriefSuggestiveMaterial|Action|IntenseSci-FiViolence)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy,",
+                  "Comedy"
+            ],
+            "Original Language": "English",
+            "Director": "TaikaWaititi",
+            "Producer": "KevinFeige",
+            "Writer": "EricPearson,CraigKyle,ChristopherYost",
+            "Release Date (Theaters)": "Nov3,2017 wide",
+            "Release Date (Streaming)": "Mar6,2018",
+            "Box Office (Gross USA)": "$315.0M",
+            "Runtime": "121 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Seven Samurai",
+            "Genre": [
+                  "Action"
+            ],
+            "Original Language": "Japanese",
+            "Director": "AkiraKurosawa",
+            "Producer": "SojiroMotoki",
+            "Writer": "ShinobuHashimoto,AkiraKurosawa,HideoOguni",
+            "Release Date (Theaters)": "Nov19,1956 wide",
+            "Release Date (Streaming)": "Sep5,2006",
+            "Box Office (Gross USA)": "$271.7K",
+            "Runtime": "190 m",
+            "Distributor": "ColumbiaPictures",
+            "Sound Mix": "Mono",
+            "Aspect Ratio": "Flat(1.37:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Star Wars: The Force Awakens",
+            "Rating": "PG-13(Sci-FiActionViolence)",
+            "Genre": [
+                  "Adventure,",
+                  "Action,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "J.J.Abrams",
+            "Producer": "KathleenKennedy,J.J.Abrams,BryanBurk",
+            "Writer": "LawrenceKasdan,J.J.Abrams,MichaelArndt",
+            "Release Date (Theaters)": "Dec18,2015 wide",
+            "Release Date (Streaming)": "Apr5,2016",
+            "Box Office (Gross USA)": "$123",
+            "Runtime": "127 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyDigital,DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "StarWarsSaga",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Metropolis",
+            "Genre": [
+                  "Drama"
+            ],
+            "Original Language": "German",
+            "Director": "FritzLang",
+            "Producer": "ErichPommer",
+            "Writer": "FritzLang,TheavonHarbou,TheavonHarbou",
+            "Release Date (Theaters)": "Mar13,1927 original",
+            "Release Date (Streaming)": "Mar22,2007",
+            "Box Office (Gross USA)": "$1.2M",
+            "Runtime": "123 m",
+            "Distributor": "ParamountPictures",
+            "Sound Mix": "DolbyStereo,DolbyDigital,DolbyA,DolbySR",
+            "Aspect Ratio": "Flat(1.85:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Soul",
+            "Rating": "PG(ThematicElements|SomeLanguage)",
+            "Genre": [
+                  "Comedy,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "PeteDocter",
+            "Producer": "DanaLeighMurray",
+            "Writer": "PeteDocter,MikeJones,KempPowers",
+            "Release Date (Streaming)": "Dec25,2020",
+            "Runtime": "64 m",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "Pixar",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Adventures of Robin Hood",
+            "Rating": "PG",
+            "Genre": [
+                  "Adventure,",
+                  "Action"
+            ],
+            "Original Language": "English",
+            "Director": "MichaelCurtiz,WilliamKeighley",
+            "Producer": "HalB.Wallis",
+            "Writer": "NormanReillyRaine,SetonI.Miller",
+            "Release Date (Theaters)": "Feb11,1938 wide",
+            "Release Date (Streaming)": "Sep30,2003",
+            "Runtime": "66 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "Mono",
+            "Aspect Ratio": "Flat(1.37:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Spider-Man: Far From Home",
+            "Rating": "PG-13(Sci-FiActionViolence|BriefSuggestiveComments|SomeLanguage)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy,",
+                  "Comedy"
+            ],
+            "Original Language": "English",
+            "Director": "JonWatts",
+            "Producer": "KevinFeige,AmyPascal",
+            "Writer": "ChrisMcKenna,ErikSommers",
+            "Release Date (Theaters)": "Jul2,2019 wide",
+            "Release Date (Streaming)": "Aug27,2019",
+            "Box Office (Gross USA)": "$390.7M",
+            "Runtime": "129 m",
+            "Distributor": "SonyPicturesEntertainment,ColumbiaPictures",
+            "Sound Mix": "DolbyAtmos,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Incredibles 2",
+            "Rating": "PG(SomeBriefMildLanguage|ActionSequences)",
+            "Genre": [
+                  "Comedy,",
+                  "Adventure,",
+                  "Action"
+            ],
+            "Original Language": "English",
+            "Director": "BradBird",
+            "Producer": "JohnWalker,NicoleParadisGrindle",
+            "Writer": "BradBird",
+            "Release Date (Theaters)": "Jun15,2018 wide",
+            "Release Date (Streaming)": "Nov6,2018",
+            "Box Office (Gross USA)": "$608.6M",
+            "Runtime": "73 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos,DolbyDigital,DTS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "Pixar",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Zootopia",
+            "Rating": "PG(RudeHumor|Action|SomeThematicElements)",
+            "Genre": [
+                  "Comedy,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "ByronHoward,RichMoore",
+            "Producer": "ClarkSpencer",
+            "Writer": "JaredBush,PhilJohnston",
+            "Release Date (Theaters)": "Mar4,2016 wide",
+            "Release Date (Streaming)": "Jun7,2016",
+            "Runtime": "72 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "King Kong",
+            "Genre": [
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "MerianC.Cooper,ErnestB.Schoedsack",
+            "Producer": "MerianC.Cooper,ErnestB.Schoedsack",
+            "Writer": "JamesAshmoreCreelman,RuthRose",
+            "Release Date (Theaters)": "Mar2,1933 original",
+            "Release Date (Streaming)": "Nov22,2005",
+            "Runtime": "64 m",
+            "Distributor": "RKORadioPictures",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "War for the Planet of the Apes",
+            "Rating": "PG-13(SequencesofSci-FiViolence|Action|SomeDisturbingImages|ThematicElements)",
+            "Genre": [
+                  "Action,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "MattReeves",
+            "Producer": "PeterChernin,DylanClark,RickJaffa,AmandaSilver",
+            "Writer": "MattReeves,MarkBomback",
+            "Release Date (Theaters)": "Jul14,2017 wide",
+            "Release Date (Streaming)": "Oct24,2017",
+            "Box Office (Gross USA)": "$146.8M",
+            "Runtime": "124 m",
+            "Distributor": "20thCenturyFox",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "PlanetoftheApes",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Baby Driver",
+            "Rating": "R(Violence|LanguageThroughout)",
+            "Genre": [
+                  "Action"
+            ],
+            "Original Language": "English",
+            "Director": "EdgarWright",
+            "Producer": "NiraPark,TimBevan,EricFellner",
+            "Writer": "EdgarWright",
+            "Release Date (Theaters)": "Jun28,2017 wide",
+            "Release Date (Streaming)": "Sep26,2017",
+            "Box Office (Gross USA)": "$107.8M",
+            "Runtime": "68 m",
+            "Distributor": "SonyPicturesEntertainment",
+            "Sound Mix": "DolbyAtmos,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Spider-Man: Homecoming",
+            "Rating": "PG-13(Sci-FiActionViolence|BriefSuggestiveComments|SomeLanguage)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy,",
+                  "Comedy"
+            ],
+            "Original Language": "English",
+            "Director": "JonWatts",
+            "Producer": "AmyPascal,KevinFeige",
+            "Writer": "JonathanM.Goldstein,JohnFrancisDaley,JonWatts,ChristopherFord,ChrisMcKenna,ErikSommers",
+            "Release Date (Theaters)": "Jul7,2017 wide",
+            "Release Date (Streaming)": "Oct17,2017",
+            "Box Office (Gross USA)": "$334.4M",
+            "Runtime": "124 m",
+            "Distributor": "SonyPicturesEntertainment",
+            "Sound Mix": "DolbyAtmos,DTS,SDDS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Bridge on the River Kwai",
+            "Rating": "PG",
+            "Genre": [
+                  "War,",
+                  "Drama"
+            ],
+            "Original Language": "English",
+            "Director": "DavidLean",
+            "Producer": "SamSpiegel",
+            "Writer": "PierreBoulle,MichaelWilson,CarlForeman",
+            "Release Date (Theaters)": "Dec18,1957 wide",
+            "Release Date (Streaming)": "Nov21,2000",
+            "Runtime": "125 m",
+            "Distributor": "ColumbiaPictures",
+            "Sound Mix": "Surround,Mono,MagneticStereo6Track,Stereo",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Jaws",
+            "Rating": "PG",
+            "Genre": [
+                  "Horror,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "StevenSpielberg",
+            "Producer": "DavidBrown,RichardD.Zanuck",
+            "Writer": "PeterBenchley,PeterBenchley,CarlGottlieb,HowardSackler,JohnMilius,RobertShaw",
+            "Release Date (Theaters)": "Jun20,1975 wide",
+            "Release Date (Streaming)": "Jun14,2005",
+            "Box Office (Gross USA)": "$260.9M",
+            "Runtime": "124 m",
+            "Distributor": "DiscoVision,UniversalPictures",
+            "Sound Mix": "Mono,CDS",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Up",
+            "Rating": "PG(SomePeril|Action)",
+            "Genre": [
+                  "Comedy,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "PeteDocter,BobPeterson",
+            "Producer": "JonasRivera",
+            "Writer": "BobPeterson,PeteDocter",
+            "Release Date (Theaters)": "May29,2009 wide",
+            "Release Date (Streaming)": "Nov10,2009",
+            "Runtime": "71 m",
+            "Distributor": "WaltDisney,PixarAnimationStudios",
+            "View the collection": "Pixar",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Shazam!",
+            "Rating": "PG-13(Language|IntenseSequencesofAction|SuggestiveMaterial)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Comedy,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "DavidF.Sandberg",
+            "Producer": "PeterSafran",
+            "Writer": "HenryGayden",
+            "Release Date (Theaters)": "Apr5,2019 wide",
+            "Release Date (Streaming)": "Jul2,2019",
+            "Box Office (Gross USA)": "$140.4M",
+            "Runtime": "123 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "DCExtendedUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Dark Knight",
+            "Rating": "PG-13(SomeMenace|IntenseSequencesofViolence)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "ChristopherNolan",
+            "Producer": "EmmaThomas,CharlesRoven,ChristopherNolan",
+            "Writer": "JonathanNolan,ChristopherNolan",
+            "Release Date (Theaters)": "Jul18,2008 wide",
+            "Release Date (Streaming)": "Dec9,2008",
+            "Box Office (Gross USA)": "$2.0M",
+            "Runtime": "125 m",
+            "Distributor": "WarnerBros.",
+            "Sound Mix": "SDDS,DTS,DolbyDigital",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "Batman",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Treasure of the Sierra Madre",
+            "Genre": [
+                  "Adventure,",
+                  "Western,",
+                  "Drama"
+            ],
+            "Original Language": "English",
+            "Director": "JohnHuston",
+            "Producer": "HenryBlanke",
+            "Writer": "B.Traven,JohnHuston",
+            "Release Date (Theaters)": "Jan6,1948 original",
+            "Release Date (Streaming)": "Sep30,2003",
+            "Runtime": "124 m",
+            "Distributor": "WarnerBros.Pictures,MGM/UAHomeEntertainmentInc.",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Lawrence of Arabia",
+            "Rating": "PG",
+            "Genre": [
+                  "Biography,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "DavidLean",
+            "Producer": "RobertA.Harris,SamSpiegel",
+            "Writer": "RobertBolt,MichaelWilson",
+            "Release Date (Theaters)": "Dec16,1962 original",
+            "Release Date (Streaming)": "Apr3,2001",
+            "Box Office (Gross USA)": "$6.0M",
+            "Runtime": "189 m",
+            "Distributor": "ColumbiaTriStarHomeVideo,ColumbiaTristar,RCAHomeVideo,CriterionCollection",
+            "Sound Mix": "Surround",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Captain America: Civil War",
+            "Rating": "PG-13(ExtendedSequencesofViolence|ActionandMayhem)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "AnthonyRusso,JoeRusso",
+            "Producer": "KevinFeige",
+            "Writer": "ChristopherMarkus,StephenMcFeely",
+            "Release Date (Theaters)": "May6,2016 wide",
+            "Release Date (Streaming)": "Sep13,2016",
+            "Box Office (Gross USA)": "$408.1M",
+            "Runtime": "128 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos,DolbyDigital",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Blade Runner 2049",
+            "Rating": "R(Nudity|Language|SomeSexuality|Violence)",
+            "Genre": [
+                  "Mystery",
+                  "&",
+                  "thriller,",
+                  "Sci-fi"
+            ],
+            "Original Language": "English",
+            "Director": "DenisVilleneuve",
+            "Producer": "AndrewA.Kosove,BroderickJohnson,BudYorkin,CynthiaSikesYorkin",
+            "Writer": "HamptonFancher,MichaelGreen",
+            "Release Date (Theaters)": "Oct6,2017 wide",
+            "Release Date (Streaming)": "Jan16,2018",
+            "Box Office (Gross USA)": "$91.5M",
+            "Runtime": "128 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "BladeRunner",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Skyfall",
+            "Rating": "PG-13(Language|IntenseViolentSequences|Smoking|SomeSexuality)",
+            "Genre": [
+                  "Action,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "SamMendes",
+            "Producer": "MichaelG.Wilson,BarbaraBroccoli",
+            "Writer": "NealPurvis,RobertWade,JohnLogan",
+            "Release Date (Theaters)": "Nov9,2012 wide",
+            "Release Date (Streaming)": "Feb12,2013",
+            "Box Office (Gross USA)": "$304.4M",
+            "Runtime": "125 m",
+            "Distributor": "SonyPicturesEntertainment",
+            "Sound Mix": "DolbyDigital,SDDS,Datasat",
+            "View the collection": "JamesBond007",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The 39 Steps",
+            "Genre": [
+                  "Mystery",
+                  "&",
+                  "thriller"
+            ],
+            "Original Language": "English(UnitedKingdom)",
+            "Director": "AlfredHitchcock",
+            "Producer": "MichaelBalcon,IvorMontagu",
+            "Writer": "JohnBuchan,CharlesBennett,IanHay",
+            "Release Date (Theaters)": "Jun18,1935 original",
+            "Release Date (Streaming)": "Nov2,1999",
+            "Runtime": "62 m",
+            "Distributor": "GrapevineVideo,LSVideo,GaumontBritishDistributors",
+            "Sound Mix": "Mono",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Jungle Book",
+            "Rating": "PG(SomeSequencesofScaryAction|Peril)",
+            "Genre": [
+                  "Adventure,",
+                  "Action,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "JonFavreau",
+            "Producer": "JonFavreau,BrighamTaylor",
+            "Writer": "JustinMarks",
+            "Release Date (Theaters)": "Apr15,2016 wide",
+            "Release Date (Streaming)": "Aug30,2016",
+            "Box Office (Gross USA)": "$364.0M",
+            "Runtime": "69 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos",
+            "Aspect Ratio": "Flat(1.85:1)",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Harry Potter and the Deathly Hallows: Part 2",
+            "Rating": "PG-13(SeqofIntenseActionViolence|FrighteningImages)",
+            "Genre": [
+                  "Fantasy,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "DavidYates",
+            "Producer": "DavidHeyman,DavidBarron,J.K.Rowling",
+            "Writer": "SteveKloves",
+            "Release Date (Theaters)": "Jul15,2011 wide",
+            "Release Date (Streaming)": "Nov11,2011",
+            "Box Office (Gross USA)": "$381.0M",
+            "Runtime": "122 m",
+            "Distributor": "WarnerBros.Pictures",
+            "Sound Mix": "DolbyDigital,SDDS",
+            "View the collection": "HarryPotter",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Mission: Impossible Rogue Nation",
+            "Rating": "PG-13(SequencesofAction&Violence|BriefPartialNudity)",
+            "Genre": [
+                  "Action,",
+                  "Adventure"
+            ],
+            "Original Language": "English",
+            "Director": "ChristopherMcQuarrie",
+            "Producer": "TomCruise,J.J.Abrams,BryanBurk,DavidEllison,DanaGoldberg,DonGranger",
+            "Writer": "ChristopherMcQuarrie",
+            "Release Date (Theaters)": "Jul31,2015 wide",
+            "Release Date (Streaming)": "Dec15,2015",
+            "Runtime": "122 m",
+            "Distributor": "ParamountPictures",
+            "Sound Mix": "DolbyAtmos",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "The Hurt Locker",
+            "Rating": "R(WarViolence|Language)",
+            "Genre": [
+                  "War,",
+                  "Drama,",
+                  "Action"
+            ],
+            "Original Language": "English",
+            "Director": "KathrynBigelow",
+            "Producer": "KathrynBigelow,MarkBoal,NicolasChartier",
+            "Writer": "MarkBoal",
+            "Release Date (Theaters)": "Jul31,2009 original",
+            "Release Date (Streaming)": "Jan12,2010",
+            "Box Office (Gross USA)": "$15.7M",
+            "Runtime": "127 m",
+            "Distributor": "SummitMedia",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Apocalypse Now",
+            "Rating": "R",
+            "Genre": [
+                  "War,",
+                  "Drama"
+            ],
+            "Original Language": "English",
+            "Director": "FrancisFordCoppola",
+            "Producer": "KimAubry,FrancisFordCoppola",
+            "Writer": "JosephConrad,JohnMilius,FrancisFordCoppola,MichaelHerr",
+            "Release Date (Theaters)": "Aug15,1979 original",
+            "Release Date (Streaming)": "May18,2010",
+            "Box Office (Gross USA)": "$78.8M",
+            "Runtime": "126 m",
+            "Distributor": "ParamountPictures,MiramaxFilms,UnitedArtists",
+            "Sound Mix": "Surround",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Avengers: Infinity War",
+            "Rating": "PG-13(IntenseSci-FiViolence|ActionThroughout|Language|SomeCrudeReferences)",
+            "Genre": [
+                  "Action,",
+                  "Adventure,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "AnthonyRusso,JoeRusso",
+            "Producer": "KevinFeige",
+            "Writer": "ChristopherMarkus,StephenMcFeely",
+            "Release Date (Theaters)": "Apr27,2018 wide",
+            "Release Date (Streaming)": "Aug14,2018",
+            "Box Office (Gross USA)": "$678.8M",
+            "Runtime": "131 m",
+            "Distributor": "WaltDisney",
+            "Sound Mix": "DolbyAtmos,DolbyDigital,DTS",
+            "Aspect Ratio": "Scope(2.35:1)",
+            "View the collection": "MarvelCinematicUniverse",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      },
+      {
+            "Name": "Star Trek",
+            "Rating": "PG-13(Sci-FiAction|BriefSexualContent|Violence)",
+            "Genre": [
+                  "Adventure,",
+                  "Action,",
+                  "Fantasy"
+            ],
+            "Original Language": "English",
+            "Director": "J.J.Abrams",
+            "Producer": "J.J.Abrams,DamonLindelof",
+            "Writer": "RobertoOrci,AlexKurtzman",
+            "Release Date (Theaters)": "May7,2009 wide",
+            "Release Date (Streaming)": "Nov17,2009",
+            "Box Office (Gross USA)": "$257.7M",
+            "Runtime": "126 m",
+            "Distributor": "ParamountPictures",
+            "View the collection": "StarTrek",
+            "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif"
+      }
+]
